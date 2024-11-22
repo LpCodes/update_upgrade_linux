@@ -10,7 +10,7 @@ This Python script is designed to simplify the process of updating and upgrading
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/lpcodes/update-upgrade-linux.git
+   git clone https://github.com/LpCodes/update_upgrade_linux.git
    cd update-upgrade-linux 
 
 Note : You may need to install Python if you don’t already have it. Run the following command:
