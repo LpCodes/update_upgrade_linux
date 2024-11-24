@@ -19,13 +19,9 @@ Note : You may need to install Python if you don’t already have it. Run the fo
 
 ## Usage
 
-Open a terminal and navigate to the directory where the script is located.
-
-Run the script using Python3:
-
-```python3 update_upgrade_linux.py ```
-
-You will be prompted to enter your password for sudo access.
+1. Save/download the script.
+2. Make it executable: chmod +x update_upgrade.py.
+3. Run it with sudo: sudo ./update_upgrade.py.
 
 The script will automatically:
 
